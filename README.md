@@ -1,2 +1,3 @@
 # pipelines-examples
-Pipelines Exampels
+This directory contains examples for Red Hat OpenShift Pipelines documentation
+
